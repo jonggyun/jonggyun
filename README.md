@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+Learn, Share, Growth!
+
+프론트엔드 개발자 박종균입니다.
+
 <!--
 **jonggyun/jonggyun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
